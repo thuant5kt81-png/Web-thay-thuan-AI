@@ -1,0 +1,6 @@
+{
+  "name": "Thầy Thuận Công Nghệ - Quản Trị Học Tập",
+  "description": "Ứng dụng web quản trị học tập dành cho giáo viên và học sinh THCS Trường THCS THSP Lý Tự Trọng do Thầy Thuận Công nghệ phụ trách.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
